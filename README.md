@@ -1,1 +1,1 @@
-*Emphasize* vagrant
+*Emphasize*
